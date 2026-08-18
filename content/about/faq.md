@@ -113,14 +113,13 @@ BeOS inspired many other projects, here are some notable ones:
 
   * [Vitruvian](https://v-os.dev/) is an Operating System based on Linux that reuses parts of the Haiku code and the GNU ecosystem to provide a BeOS like experience based on different goals than Haiku.
   * [Cosmoe](https://www.cosmoe.org/) is a port of Haiku's user interface libraries to GNU/Linux, Mac OS and Windows. It allows to write cross platform applications using the Be API.
-  * [HyClone](https://github.com/trungnt2910/hyclone) is a runtime environmet to execute command-line Haiku binaries on Linux and other systems.
-
+ * [HyClone](https://github.com/trungnt2910/hyclone) is a runtime environment to execute command-line Haiku binaries on Linux and other systems.
 ### I've never seen Haiku. What does it look like?
 Check out our [Haiku Slideshow](/slideshows/haiku-tour/) and the [Haiku Movies](/about/movies) pages.
 
 ### Can I use Haiku as my primary Operating System?
-Yes! Although the OS is still considered "beta", it is reasonably stable and can be used to perform most daily tasks such as browsing the web
- writing and reading e-mails, or listening to music and watching videos. We strongly recommend that you make backups of your personal files regularly.
+Yes! Although the OS is still considered "beta", it is reasonably stable and can be used to perform most daily tasks such as browsing the web,
+writing and reading e-mails, or listening to music and watching videos.. We strongly recommend that you make backups of your personal files regularly.
 
 ### Can Haiku connect to the Internet?
 Yes! We reuse network drivers from FreeBSD, so most network adapters will work on Haiku out of the box. Haiku includes an e-mail client and a
@@ -172,8 +171,7 @@ There are also some [alternative repositories](https://www.haiku-os.org/communit
 Yes! There are actually multiple messaging applications available for Haiku for various protocols, such as IRC (Vision, Quassel, WeeChat, irrsi),
 Matrix (Quaternion, nheko) and XMPP (Renga, Chat-O-Matic, Vacuum).
 
-**Vision**, **Renga** and **Chat-O-Matic** were speciically developed for the Haiku operating system. They are being maintained by members of our community.
-
+Vision, Renga and Chat-O-Matic were specifically developed for the Haiku operating system.
 ### Is there Java support?
 Yes! The OpenJDK virtual machine is available and enables you to run applications such as Netbeans, JDownloader, and much more.
 
